@@ -1,0 +1,10 @@
+# ☕ Backend - Inmobiliaria MG (Spring Boot REST API)
+
+Consulte la documentación completa del backend en el archivo [`README.md`](./README.md) en esta misma carpeta o en el [`README.md`](../README.md) de la raíz del proyecto.
+
+## Inicio Rápido
+```cmd
+cd C:\xampp\htdocs\Inmobiliaria\backend
+mvnw.cmd spring-boot:run
+```
+Servidor ejecutándose en: `http://localhost:8080`
